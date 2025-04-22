@@ -1,1 +1,35 @@
+header{
+  background-color: green;
+}
 
+nav {
+  color: orange;
+}
+
+main {
+  color: brown;
+}
+
+section {
+  color: light-blue;
+}
+
+article {
+  color: red;
+}
+
+article {
+  color: purple;
+}
+
+aside {
+  color: pink;
+}
+
+aside {
+  color: blue;
+}
+
+footer {
+  color: yellow;
+} 
