@@ -1,35 +1,35 @@
 header{
-  background-color: green;
-}
-
-nav {
-  color: orange;
-}
-
-main {
-  color: brown;
-}
-
-section {
-  color: light-blue;
-}
-
-article {
-  color: red;
-}
-
-article {
-  color: purple;
-}
-
-aside {
-  color: pink;
-}
-
-aside {
-  color: blue;
-}
-
-footer {
-  color: yellow;
-} 
+    background-color: green;
+  }
+  
+  nav {
+    background-color: orange;
+  }
+  
+  main {
+    background-color: brown;
+  }
+  
+  section {
+    background-color: light-blue;
+  }
+  
+  article {
+    background-color: red;
+  }
+  
+  article {
+    background-color: purple;
+  }
+  
+  aside {
+    background-color: pink;
+  }
+  
+  aside {
+    background-color: blue;
+  }
+  
+  footer {
+    background-color: yellow;
+  } 
